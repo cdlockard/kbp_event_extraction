@@ -1,0 +1,42 @@
+(lp0
+S'token down mod wn wn word word'
+p1
+aS'token down subj wn wn word word'
+p2
+aS'token down mod down mod wn wn word word'
+p3
+aS'token down dobj wn wn word word'
+p4
+aS'token down mod down det wn wn word word'
+p5
+aS'token down dobj down mod wn wn word word'
+p6
+aS'token down subj down mod wn wn word word'
+p7
+aS'token up mod wn wn word word'
+p8
+aS'token down mod down compound wn wn word word'
+p9
+aS'token wn wn word word'
+p10
+aS'token down subj down compound wn wn word word'
+p11
+aS'token up mod down mod wn wn word word'
+p12
+aS'token up mod down subj wn wn word word'
+p13
+aS'token down subj down det wn wn word word'
+p14
+aS'token down dobj down det wn wn word word'
+p15
+aS'token down mod down mod down mod wn wn word word'
+p16
+aS'token down mod down mod down case wn wn word word'
+p17
+aS'token up comp down subj wn wn word word'
+p18
+aS'token up mod down compound wn wn word word'
+p19
+aS'token down mod down case wn wn word word'
+p20
+a.

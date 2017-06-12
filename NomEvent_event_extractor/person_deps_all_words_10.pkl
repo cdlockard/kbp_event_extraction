@@ -1,0 +1,22 @@
+(lp0
+S'token up mod wn person word word'
+p1
+aS'token down mod wn person word word'
+p2
+aS'token up mod down mod wn person word word'
+p3
+aS'token up compound wn person word word'
+p4
+aS'token down compound wn person word word'
+p5
+aS'token down subj wn person word word'
+p6
+aS'token up mod up mod wn person word word'
+p7
+aS'token down mod down mod wn person word word'
+p8
+aS'token up mod down subj wn person word word'
+p9
+aS'token up compound down compound wn person word word'
+p10
+a.

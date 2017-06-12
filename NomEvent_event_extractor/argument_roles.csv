@@ -1,0 +1,68 @@
+event,role,types
+Conflict.Attack,Attacker,PER ORG GPE
+Conflict.Attack,Instrument,WEA VEH COM
+Conflict.Attack,Target,PER ORG GPE VEH FAC WEA COM
+Conflict.Attack,Place,GPE LOC FAC
+Conflict.Demonstrate,Entity,PER ORG
+Conflict.Demonstrate,Place,GPE LOC FAC
+Contact.Broadcast,Audience,PER ORG GPE
+Contact.Broadcast,Entity,PER ORG GPE
+Contact.Broadcast,Place,GPE LOC FAC
+Contact.Contact,Entity,PER ORG GPE
+Contact.Contact,Place,GPE LOC FAC
+Contact.Correspondence,Entity,PER ORG GPE
+Contact.Correspondence,Place,GPE LOC FAC
+Contact.Meet,Entity,PER ORG GPE
+Contact.Meet,Place,GPE LOC FAC
+Justice.Arrest-Jail,Agent,PER ORG GPE
+Justice.Arrest-Jail,Crime,CRIME
+Justice.Arrest-Jail,Person,PER
+Justice.Arrest-Jail,Place,GPE LOC FAC
+Life.Die,Agent,PER ORG GPE
+Life.Die,Instrument,WEA VEH COM
+Life.Die,Victim,PER
+Life.Die,Place,GPE LOC FAC
+Life.Injure,Agent,PER ORG GPE
+Life.Injure,Instrument,WEA VEH COM
+Life.Injure,Victim,PER
+Life.Injure,Place,GPE LOC FAC
+Manufacture.Artifact,Agent,PER ORG GPE
+Manufacture.Artifact,Artifact,WEA VEH COM
+Manufacture.Artifact,Instrument,WEA VEH COM
+Manufacture.Artifact,Place,GPE LOC FAC
+Movement.Transport-Artifact,Agent,PER ORG GPE
+Movement.Transport-Artifact,Artifact,WEA VEH FAC COM
+Movement.Transport-Artifact,Destination,GPE LOC FAC
+Movement.Transport-Artifact,Instrument,VEH WEA
+Movement.Transport-Artifact,Origin,GPE LOC FAC
+Movement.Transport-Person,Agent,PER ORG GPE
+Movement.Transport-Person,Destination,GPE LOC FAC
+Movement.Transport-Person,Instrument,VEH WEA
+Movement.Transport-Person,Origin,GPE LOC FAC
+Movement.Transport-Person,Person,PER
+Personnel.Elect,Agent,PER ORG GPE
+Personnel.Elect,Person,PER
+Personnel.Elect,Position,Title
+Personnel.Elect,Place,GPE LOC FAC
+Personnel.End-Position,Entity,ORG GPE
+Personnel.End-Position,Person,PER
+Personnel.End-Position,Position,Title
+Personnel.End-Position,Place,GPE LOC FAC
+Personnel.Start-Position,Entity,ORG GPE
+Personnel.Start-Position,Person,PER
+Personnel.Start-Position,Position,Title
+Personnel.Start-Position,Place,GPE LOC FAC
+Transaction.Transaction,Beneficiary,PER ORG GPE
+Transaction.Transaction,Giver,PER ORG GPE
+Transaction.Transaction,Recipient,PER ORG GPE
+Transaction.Transaction,Place,GPE LOC FAC
+Transaction.Transfer-Money,Beneficiary,PER ORG GPE
+Transaction.Transfer-Money,Giver,PER ORG GPE
+Transaction.Transfer-Money,Recipient,PER ORG GPE
+Transaction.Transfer-Money,Money,MONEY
+Transaction.Transfer-Money,Place,GPE LOC FAC
+Transaction.Transfer-Ownership,Beneficiary,PER ORG GPE
+Transaction.Transfer-Ownership,Giver,PER ORG GPE
+Transaction.Transfer-Ownership,Recipient,PER ORG GPE
+Transaction.Transfer-Ownership,Thing,VEH WEA FAC ORG COM
+Transaction.Transfer-Ownership,Place,GPE LOC FAC
